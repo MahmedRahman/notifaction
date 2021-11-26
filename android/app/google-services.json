@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835020512716",
+    "project_id": "notifactionchat",
+    "storage_bucket": "notifactionchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835020512716:android:6826860d85bbf4fe5dd169",
+        "android_client_info": {
+          "package_name": "com.app.appchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835020512716-eppvk9fv11ombt5qh96q4k26uu23dk84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqoIx6HW7pDrPMQ32Bzc2A-vYsRM17xHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835020512716-eppvk9fv11ombt5qh96q4k26uu23dk84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
