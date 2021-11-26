@@ -44,6 +44,8 @@ void main() async {
 
   await Firebase.initializeApp();
   FirebaseMessaging messaging = FirebaseMessaging.instance;
+  await FirebaseMessaging.instance.subscribeToTopic('chat');
+
   NotificationSettings settings = await messaging.requestPermission(
     alert: true,
     announcement: false,
